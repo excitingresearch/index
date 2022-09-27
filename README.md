@@ -3,7 +3,6 @@ The [Exciting Research](https://excitingresearch.io/) is an ongoing research abo
 
 https://user-images.githubusercontent.com/23557957/192529698-4afc5911-9fd4-4404-a2cb-ac84d313480d.mp4
 
-https://excitingresearch.io/videos/EXCITING_RESEARCH-video-Social%20Interface.mp4
 
 # Hardware
 
